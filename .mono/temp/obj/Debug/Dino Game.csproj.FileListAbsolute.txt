@@ -1,0 +1,8 @@
+C:\Users\socra\Documents\Games\Dino Game\.mono\temp\obj\Debug\Dino Game.csprojAssemblyReference.cache
+C:\Users\socra\Documents\Games\Dino Game\.mono\temp\obj\Debug\Dino Game.AssemblyInfoInputs.cache
+C:\Users\socra\Documents\Games\Dino Game\.mono\temp\obj\Debug\Dino Game.AssemblyInfo.cs
+C:\Users\socra\Documents\Games\Dino Game\.mono\temp\obj\Debug\Dino Game.csproj.CoreCompileInputs.cache
+C:\Users\socra\Documents\Games\Dino Game\.mono\temp\bin\Debug\Dino Game.dll
+C:\Users\socra\Documents\Games\Dino Game\.mono\temp\bin\Debug\Dino Game.pdb
+C:\Users\socra\Documents\Games\Dino Game\.mono\temp\obj\Debug\Dino Game.dll
+C:\Users\socra\Documents\Games\Dino Game\.mono\temp\obj\Debug\Dino Game.pdb

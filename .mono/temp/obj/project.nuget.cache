@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0yd/sR6kdQkzSJIiEpzFn/N1m9e7+XwhXF5Pr7t8om5Veja91EENF4Ic+HH9Dgdl9J6hH1xLEsvtTroex1hcQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\socra\\Documents\\Games\\Dino Game\\Dino Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\socra\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\socra\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.0\\microsoft.netframework.referenceassemblies.net472.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
